@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @rohxoxo
+- 👀 I’m interested in web development, Rest API development, and iOS app development.
+- 🌱 I’m currently learning TypeScript and Node.js.
+- 💞️ I’m looking to collaborate on innovative web and mobile application projects.
+- 📫 How to reach me: [Your Email] | [Your LinkedIn Profile]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I was one of the top scorers during my internship at Cognizant, where I learned various technologies including Java, Spring Microservices, and DevOps.
