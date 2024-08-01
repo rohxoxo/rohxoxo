@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on innovative web and mobile application projects.
 - 📫 How to reach me: rohitnicbc@gmail.com | https://www.linkedin.com/in/rohit0205/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was one of the top scorers during my internship at Cognizant, where I learned various technologies including Java, Spring Microservices, and DevOps.
