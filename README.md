@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohxoxo
+- 👋 Hi, I’m Rohit Kumar
 - 👀 I’m interested in web development, Rest API development, and iOS app development.
 - 🌱 I’m currently learning TypeScript and Node.js.
 - 💞️ I’m looking to collaborate on innovative web and mobile application projects.
